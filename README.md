@@ -84,6 +84,6 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 
 ## License
 
-Project Sovereign is licensed under the [MIT License](LICENSE).
+Project Sovereign is `TODO: PICK A LICENSE`.
 
 ---

@@ -1,5 +1,5 @@
-# Project Sovereign
-
+# Project Sojourn
+Revitilizing and modernize the original intent of  [Project Soverign](https://github.com/sovereign/sovereign)
 ## Overview
 
 **Project Sovereign** aims to empower individuals and organizations to reclaim their digital sovereignty by providing an easy-to-deploy, maintainable, and scalable private cloud solution. By leveraging modern tools such as containers and Terraform, Project Sovereign will offer a robust platform for hosting essential services including email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
